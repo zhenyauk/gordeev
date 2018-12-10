@@ -1,0 +1,58 @@
+@font-face {
+	font-family: RobotoBold;
+	src: url("/fonts/Roboto/Roboto-Bold.ttf") format('truetype');
+}
+@font-face {
+	font-family: RobotoThin;
+	src: url("/fonts/Roboto/Roboto-Thin.ttf") format('truetype');
+}
+@font-face {
+	font-family: Roboto;
+	src: url("/fonts/Roboto/Roboto-Regular.ttf") format('truetype');
+}
+
+
+#head{
+
+	border-top: 2px solid #f2890e;
+}
+
+.sidebar .subcat{
+	margin-left: 23px;
+}
+.questions li a{
+	font-size: 16px;
+}
+.questions .subul{
+	padding-left:15px;
+	background-color: #f6f6f6;
+	display: none;
+}
+.promotion-item:hover{
+	-webkit-box-shadow: 3px 2px 13px 0px rgba(0,0,0,0.75);
+	-moz-box-shadow: 3px 2px 13px 0px rgba(0,0,0,0.75);
+	box-shadow: 3px 2px 13px 0px rgba(0,0,0,0.75);
+}
+.page{
+	min-height:300px;
+}
+.btn-set{
+	position:absolute;
+	bottom:37px;
+}
+.current .mega-menu:hover{
+	color:whitesmoke;
+}
+
+p{
+	font-size: 17px;
+}
+
+#blog-section p, #blog-section{
+	font-family: "Roboto";
+	font-size:18px;
+}
+
+body, p, a, {
+	font-family: Roboto;
+}

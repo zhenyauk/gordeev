@@ -1,0 +1,42 @@
+15 color scheme, I will give your color set
+01- #FF525E = redish
+02- #F9690E
+03- #87D37C
+04- #A05EB7
+05- #5D9496
+06- #747D8C
+07- #F37259
+08- #EAB129
+09- #49C9B2
+10- #18A05E
+11- #A64C38
+12- #9FADBF
+13- #6000B2
+14- #57FF6B
+15- #FF4026
+16- #7A8F8F
+17- #364ABF
+18- #54626C
+19- #FFE11A
+20- #C1CBCD
+
+// echo " <div style='width:200px; height:200px; background-color: #FF525E; '>111</div>
+        <div style='width:200px; height:200px; background-color: #F9690E; '>111</div>
+        <div style='width:200px; height:200px; background-color: #87D37C; '>111</div>
+        <div style='width:200px; height:200px; background-color: #A05EB7; '>111</div>
+        <div style='width:200px; height:200px; background-color: #5D9496; '>111</div>
+        <div style='width:200px; height:200px; background-color: #747D8C; '>111</div>
+        <div style='width:200px; height:200px; background-color: #F37259; '>111</div>
+        <div style='width:200px; height:200px; background-color: #EAB129; '>111</div>
+        <div style='width:200px; height:200px; background-color: #49C9B2; '>111</div>
+        <div style='width:200px; height:200px; background-color: #18A05E; '>111</div>
+        <div style='width:200px; height:200px; background-color: #A64C38; '>111</div>
+        <div style='width:200px; height:200px; background-color: #9FADBF; '>111</div>
+        <div style='width:200px; height:200px; background-color: #6000B2; '>111</div>
+        <div style='width:200px; height:200px; background-color: #57FF6B; '>111</div>
+        <div style='width:200px; height:200px; background-color: #FF4026; '>111</div>
+        <div style='width:200px; height:200px; background-color: #7A8F8F; '>111</div>
+        <div style='width:200px; height:200px; background-color: #364ABF; '>111</div>
+        <div style='width:200px; height:200px; background-color: #54626C; '>111</div>
+        <div style='width:200px; height:200px; background-color: #FFE11A; '>111</div>
+        <div style='width:200px; height:200px; background-color: #C1CBCD; '>111</div> "; 
